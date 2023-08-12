@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(324,25): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(392,25): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(472,18): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(1319,39): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(1374,39): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(1438,39): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(1889,33): warning C4101: 'clavew': variable local sin referencia
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(2943,14): warning C4101: 'siguiente': variable local sin referencia
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(3039,28): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(3076,36): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(3079,42): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(3084,59): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 162 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Avance1.vcxproj -> C:\Users\aldor\source\repos\Avance1\x64\Release\Avance1.exe

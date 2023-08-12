@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(321,25): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(389,25): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(469,18): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(1885,33): warning C4101: 'clavew': variable local sin referencia
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(2939,14): warning C4101: 'siguiente': variable local sin referencia
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(3035,28): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(3072,36): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\Avance1\Avance1\Source.cpp(3075,42): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Avance1.vcxproj -> C:\Users\aldor\source\repos\Avance1\Debug\Avance1.exe
